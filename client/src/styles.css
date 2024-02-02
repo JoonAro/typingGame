@@ -8,7 +8,7 @@ body {
   align-items: center;
   min-height: 100vh;
   margin: 0;
-  background-image: linear-gradient(orange, black);
+  background-color: #1E0555;
 }
 
 body,
@@ -22,6 +22,7 @@ body,
   border-radius: .5rem;
   width: 700px;
   max-width: 90%;
+  background-image: linear-gradient(orange, black);
 }
 
 .timer {
